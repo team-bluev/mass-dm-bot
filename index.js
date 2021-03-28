@@ -13,4 +13,4 @@ client.aliases = new discord.Collection();
 util.loadModules("events");
 util.loadModules("commands", true)
 
-client.login("ODE3MDUzMzg0MjE2OTM2NDU4.YED6Qg.p__aYS2KqhZ6fRdXM9L6_iS9_vw");
+client.login("bot_token");
